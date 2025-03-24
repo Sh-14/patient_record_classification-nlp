@@ -1,9 +1,10 @@
-# patient_record_classification-nlp
-News Classification Project
+Patient_Record_Classification using NLP
+
 Course: NLP (Semester 6) - Pillai College of Engineering
 Project Overview:
 This project is part of the Natural Language Processing (NLP) course for Semester 6 students at Pillai College of Engineering. The project focuses on News Classification, where we apply various Machine Learning (ML), Deep Learning (DL), and Language Models to categorize news articles into predefined categories. This project involves exploring techniques like text preprocessing, feature extraction, model training, and evaluating the models for their effectiveness in classifying news articles.
-You can learn more about the college by visiting the official website of Pillai College of Engineering.
+You can learn more about the college by visiting the official website of https://www.pce.ac.in/
+
 Acknowledgements:
 We would like to express our sincere gratitude to the following individuals:
 Theory Faculty:
