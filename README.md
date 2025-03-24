@@ -11,9 +11,14 @@ You can learn more about the college by visiting the official website of
 
 Acknowledgements:
 We would like to express our sincere gratitude to the following individuals:
+
+
 Theory Faculty:
        Dhiraj Amin
        Sharvari Govilkar
+
+
+
 Lab Faculty:
          Dhiraj Amin
          Neha Ashok
@@ -27,7 +32,12 @@ Patient Record Classification using Natural Language Processing
 
 Project Abstract:
 The Patient Record Classification project focuses on categorizing electronic health records (EHRs) into key medical categories such as Diagnosis, Treatment, Medication, Test Results, and Outcomes. By utilizing Machine Learning, Deep Learning, and Natural Language Processing (NLP), the system automates the classification process, improving efficiency in healthcare data management. The project explores various approaches, including traditional machine learning algorithms (SVM, Random Forest, Naïve Bayes), deep learning models (LSTMs, CNNs), and advanced pre-trained language models like BERT, BioBERT, and ClinicalBERT. The goal is to evaluate and identify the best-performing model for accurate and scalable classification. This automation enhances clinical workflows, accelerates information retrieval, reduces manual workload, and supports predictive analytics, ultimately enabling smarter decision-making and improved patient care.
+
+
 Algorithms Used:
+
+
+
 Machine Learning Algorithms:
 
 
