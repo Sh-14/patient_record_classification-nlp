@@ -31,8 +31,13 @@ Algorithms Used:
 Machine Learning Algorithms:
 
 
+
 Logistic Regression
+
+
 Support Vector Machine (SVM)
+
+
 Random Forest Classifier
 
 
@@ -40,13 +45,19 @@ Deep Learning Algorithms:
 
 
 Convolutional Neural Networks (CNN)
+
+
 Recurrent Neural Networks (RNN)
+
+
 Long Short-Term Memory (LSTM)
 
 Language Models:
 
 
 GPT
+
+
 BERT (Bidirectional Encoder Representations from Transformers)
 
 
