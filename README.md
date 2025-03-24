@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7805ac29-f40e-48e8-9fbf-583efb85ead0)Patient_Record_Classification using NLP
+Patient_Record_Classification using NLP
 
 Course: NLP (Semester 6) - Pillai College of Engineering
 Project Overview:
@@ -87,6 +87,7 @@ BERT (Bidirectional Encoder Representations from Transformers)
 93.8
 95.2
 94.5
+![image](https://github.com/user-attachments/assets/3d9fdf70-bfe3-4c81-beda-73066fc048cb)
 
 Conclusion:
 This News Classification project demonstrates the potential of Machine Learning, Deep Learning, and Language Models for text classification tasks, particularly for categorizing news articles. The comparative analysis reveals that BERT, a transformer-based model, outperforms traditional methods and deep learning models in terms of accuracy, precision, and recall. By employing various algorithms, we gain insights into the strengths and weaknesses of each model, allowing us to choose the most suitable approach for news classification.
