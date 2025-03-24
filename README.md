@@ -14,15 +14,25 @@ We would like to express our sincere gratitude to the following individuals:
 
 
 Theory Faculty:
-       Dhiraj Amin
-       Sharvari Govilkar
+      
+       
+Dhiraj Amin
+
+
+Sharvari Govilkar
 
 
 
 Lab Faculty:
-         Dhiraj Amin
-         Neha Ashok
-         Shubhangi Chavan
+
+
+Dhiraj Amin
+
+
+Neha Ashok
+
+
+Shubhangi Chavan
 
 Their guidance and support have been invaluable throughout this project.
 
