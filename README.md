@@ -4,20 +4,25 @@ Course: NLP (Semester 6) - Pillai College of Engineering
 Project Overview:
 
 This project is part of the Natural Language Processing (NLP) course for Semester 6 students at Pillai College of Engineering. The project focuses on News Classification, where we apply various Machine Learning (ML), Deep Learning (DL), and Language Models to categorize news articles into predefined categories. This project involves exploring techniques like text preprocessing, feature extraction, model training, and evaluating the models for their effectiveness in classifying news articles.
+
 You can learn more about the college by visiting the official website of https://www.pce.ac.in/
 
 Acknowledgements:
 We would like to express our sincere gratitude to the following individuals:
 Theory Faculty:
-Dhiraj Amin
-Sharvari Govilkar
+         Dhiraj Amin
+         Sharvari Govilkar
 Lab Faculty:
-Dhiraj Amin
-Neha Ashok
-Shubhangi Chavan
+         Dhiraj Amin
+         Neha Ashok
+         Shubhangi Chavan
+
 Their guidance and support have been invaluable throughout this project.
+
 Project Title:
+
 News Classification using Natural Language Processing
+
 Project Abstract:
 The News Classification project aims to classify news articles into different categories like Sports, Politics, Technology, Entertainment, and Business. This task involves applying Machine Learning, Deep Learning, and Language Models to accurately categorize news text based on its content. The project explores different algorithms, including traditional machine learning techniques, deep learning models, and state-of-the-art pre-trained language models. The goal is to evaluate the performance of each approach and select the best-performing model for news classification.
 Algorithms Used:
