@@ -1,0 +1,1004 @@
+Medical Record Entry,Category
+"""The patient was diagnosed with Type 2 diabetes after a series of blood tests.""",Diagnosis
+"""Prescribed amoxicillin 500mg for 7 days to treat bacterial infection.""",Medication
+"""The surgery was successful, and the patient is expected to recover fully within six weeks.""",Surgical Procedures
+"""MRI results indicate a torn ligament in the right knee.""",Test Results
+"""Physical therapy sessions scheduled for the next four weeks to improve mobility.""",Therapy & Rehabilitation
+"""The patient experienced mild side effects from the medication but reported improvement.""",Medication
+"""Blood pressure levels suggest the onset of hypertension.""",Medication
+"""Administered insulin injections to regulate blood sugar levels.""",Medication
+"""The patient showed significant improvement and was discharged with follow-up instructions.""",Follow-Up Recommendations
+"""X-ray images confirmed a minor fracture in the left wrist.""",Complications & Side Effects
+"""CT scan revealed a small tumor in the left lung.""",Test Results
+"""Prescribed a low-sodium diet to help manage hypertension.""",Medication
+"""Patient reports a reduction in pain after undergoing physiotherapy.""",Symptoms
+"""Endoscopy results indicate the presence of stomach ulcers.""",Test Results
+"""Chemotherapy sessions planned for the next six months to treat cancer.""",Therapy & Rehabilitation
+"""The patientâ€™s breathing has improved after oxygen therapy.""",Therapy & Rehabilitation
+"""Blood test results indicate low hemoglobin levels, suggesting anemia.""",Test Results
+"""Vitamin B12 supplements recommended to address anemia.""",Lifestyle Recommendations
+"""The patientâ€™s anemia improved after three months of supplementation.""",Lifestyle Recommendations
+"""ECG results show signs of atrial fibrillation.""",Recovery & Prognosis
+"""Started the patient on beta-blockers to control heart rate.""",Medication
+"""The patientâ€™s heart rate stabilized after medication adjustment.""",Medication
+"""Ultrasound confirmed the presence of gallstones.""",Lifestyle Recommendations
+"""Gallbladder removal surgery scheduled for next week.""",Surgical Procedures
+"""Post-surgery, the patient reports no pain and a normal diet.""",Symptoms
+"""The patient tested positive for influenza.""",Diagnosis
+"""Prescribed antiviral medication to reduce the severity of flu symptoms.""",Medication
+"""Flu symptoms subsided within five days of starting medication.""",Medication
+"""Skin biopsy results confirm the presence of melanoma.""",Test Results
+"""Radiation therapy planned to target cancerous cells.""",Therapy & Rehabilitation
+"""Follow-up scans show a reduction in tumor size.""",Follow-Up Recommendations
+"""Blood sugar levels indicate uncontrolled diabetes.""",Medication
+"""Started on metformin and lifestyle modifications to manage diabetes.""",Medication
+"""The patientâ€™s HbA1c levels improved after six months.""",Medication
+"""Chest X-ray suggests early signs of pneumonia.""",Symptoms
+"""Prescribed antibiotics and advised bed rest for recovery.""",Medication
+"""Patientâ€™s lung function improved, and fever subsided.""",Therapy & Rehabilitation
+"""Liver function tests indicate possible liver disease.""",Lifestyle Recommendations
+"""Recommended a liver-friendly diet and reduced alcohol intake.""",Lifestyle Recommendations
+"""Liver enzyme levels normalized after three months of treatment.""",Surgical Procedures
+"The patient was diagnosed with chronic kidney disease after multiple lab tests.""",Diagnosis
+"""Administered IV fluids to address dehydration and electrolyte imbalance.""",Medication
+"""The patientâ€™s kidney function improved after sustained hydration therapy.""",Therapy & Rehabilitation
+"""Chest CT scan reveals early signs of pulmonary fibrosis.""",Test Results
+"""Prescribed corticosteroids to reduce lung inflammation.""",Medication
+"""Lung capacity improved after six months of treatment.""",Recovery & Prognosis
+"""Neurological tests indicate early-stage Parkinsonâ€™s disease.""",Test Results
+"""Started on dopamine agonists to manage symptoms.""",Medication
+"""The patientâ€™s tremors have reduced, and mobility has improved.""",Symptoms
+"""Endocrinology tests confirm hypothyroidism.""",Test Results
+"""Levothyroxine therapy initiated to regulate thyroid hormone levels.""",Therapy & Rehabilitation
+"""Thyroid hormone levels returned to normal after two months.""",Medication
+"""Dermatological assessment confirms psoriasis.""",Lifestyle Recommendations
+"""Prescribed topical corticosteroids to reduce inflammation.""",Medication
+"""The patient reported significant improvement in skin condition.""",Medication
+"""Genetic testing suggests a predisposition to celiac disease.""",Test Results
+"""Recommended a strict gluten-free diet to manage symptoms.""",Lifestyle Recommendations
+"""Symptoms of bloating and fatigue disappeared after dietary changes.""",Lifestyle Recommendations
+"""Ophthalmological examination confirms glaucoma.""",Test Results
+"""Started the patient on eye drops to lower intraocular pressure.""",Medication
+"""Optic nerve health stabilized after six months of consistent medication.""",Medication
+"""Electrocardiogram (ECG) detects signs of cardiac arrhythmia.""",Medication
+"""Prescribed antiarrhythmic medication to regulate heart rhythm.""",Medication
+"""Heart rhythm normalized, and patient reports no palpitations.""",Symptoms
+"""Gastrointestinal endoscopy reveals acid reflux and mild esophagitis.""",Follow-Up Recommendations
+"""Advised lifestyle changes and prescribed proton pump inhibitors.""",Medication
+"""Acid reflux symptoms resolved, and endoscopy shows healing of the esophagus.""",Follow-Up Recommendations
+"""MRI scan indicates early signs of multiple sclerosis.""",Test Results
+"""Started on immunomodulatory therapy to slow disease progression.""",Medication
+"""The patientâ€™s mobility and coordination have improved with therapy.""",Therapy & Rehabilitation
+"""Routine screening detects high cholesterol levels.""",Test Results
+"""Statins prescribed to lower LDL cholesterol levels.""",Medication
+"""Cholesterol levels decreased, and cardiovascular risk lowered.""",Medication
+"""Clinical evaluation suggests mild cognitive impairment.""",Lifestyle Recommendations
+"""Recommended cognitive therapy and brain exercises.""",Therapy & Rehabilitation
+"""Cognitive function remained stable with therapy.""",Therapy & Rehabilitation
+"""Pulmonary function test indicates moderate asthma.""",Test Results
+"""Prescribed inhalers and advised avoidance of allergens.""",Medication
+"""Asthma symptoms are well-controlled, and no recent flare-ups reported.""",Medication
+"""Hematology reports indicate signs of iron deficiency anemia.""",Symptoms
+"""Prescribed iron supplements and advised dietary changes.""",Medication
+"""Hemoglobin levels improved after three months of iron supplementation.""",Medication
+"""Ultrasound confirms the presence of ovarian cysts.""",Follow-Up Recommendations
+"""Recommended hormonal therapy to manage cyst size and symptoms.""",Therapy & Rehabilitation
+"""Follow-up ultrasound shows cysts have significantly reduced in size.""",Follow-Up Recommendations
+"""PET scan reveals metastatic cancer spread to lymph nodes.""",Follow-Up Recommendations
+"""Started on an aggressive chemotherapy regimen to target cancer cells.""",Medication
+"""Tumor markers show a positive response to chemotherapy after two cycles.""",Therapy & Rehabilitation
+"""Sleep study indicates severe obstructive sleep apnea.""",Test Results
+"""Recommended CPAP therapy for improved breathing during sleep.""",Therapy & Rehabilitation
+"""Patient reports better sleep quality and reduced daytime fatigue.""",Symptoms
+"""Blood glucose tests indicate gestational diabetes.""",Diagnosis
+"""Advised strict dietary control and prescribed insulin therapy as needed.""",Medication
+"""Blood sugar levels stabilized, and delivery occurred without complications.""",Complications & Side Effects
+"""X-ray confirms signs of early-stage osteoporosis.""",Test Results
+"""Prescribed calcium and vitamin D supplements along with weight-bearing exercises.""",Medication
+"""Bone density scans show improvement in mineral density after six months.""",Follow-Up Recommendations
+"""Neuroimaging reveals mild brain atrophy associated with Alzheimerâ€™s disease.""",Test Results
+"""Initiated cognitive therapy and prescribed acetylcholinesterase inhibitors.""",Medication
+"""Cognitive decline slowed, and daily function remained stable over one year.""",Recovery & Prognosis
+"""Cardiac ultrasound detects mild mitral valve regurgitation.""",Lifestyle Recommendations
+"""Prescribed ACE inhibitors and advised regular cardiac monitoring.""",Medication
+"""Patient remains asymptomatic with stable heart function.""",Recovery & Prognosis
+"""Rheumatology assessment suggests early-stage rheumatoid arthritis.""",Test Results
+"""Started the patient on DMARDs to control inflammation and joint damage.""",Medication
+"""Joint stiffness and swelling reduced significantly with medication.""",Medication
+"""Lab results confirm hepatitis B infection.""",Test Results
+"""Initiated antiviral therapy to manage viral load and liver function.""",Therapy & Rehabilitation
+"""Viral load reduced, and liver enzymes returned to normal range.""",Therapy & Rehabilitation
+"""Hearing tests indicate moderate hearing loss in both ears.""",Surgical Procedures
+"""Recommended hearing aids to enhance auditory perception.""",Lifestyle Recommendations
+"""Patient reports improved communication and hearing ability.""",Symptoms
+"""Electromyography (EMG) results suggest early signs of neuropathy.""",Recovery & Prognosis
+"""Prescribed nerve pain medication and vitamin B complex supplements.""",Medication
+"""Patient reports reduced tingling and improved nerve function.""",Symptoms
+"""Skin biopsy confirms presence of eczema.""",Surgical Procedures
+"""Prescribed emollients and topical steroids to control flare-ups.""",Medication
+"""Skin irritation and itching significantly reduced with treatment.""",Therapy & Rehabilitation
+"""Lung biopsy detects early-stage lung fibrosis.""",Therapy & Rehabilitation
+"""Initiated antifibrotic therapy to slow disease progression.""",Therapy & Rehabilitation
+"""Pulmonary function tests show stabilized lung capacity.""",Therapy & Rehabilitation
+"""The patient was diagnosed with chronic kidney disease after multiple lab tests.""",Diagnosis
+"""Administered IV fluids to address dehydration and electrolyte imbalance.""",Medication
+"""The patientâ€™s kidney function improved after sustained hydration therapy.""",Therapy & Rehabilitation
+"""Chest CT scan reveals early signs of pulmonary fibrosis.""",Test Results
+"""Prescribed corticosteroids to reduce lung inflammation.""",Medication
+"""Lung capacity improved after six months of treatment.""",Recovery & Prognosis
+"""Neurological tests indicate early-stage Parkinsonâ€™s disease.""",Test Results
+"""Started on dopamine agonists to manage symptoms.""",Medication
+"""The patientâ€™s tremors have reduced, and mobility has improved.""",Symptoms
+"""Endocrinology tests confirm hypothyroidism.""",Test Results
+"""Levothyroxine therapy initiated to regulate thyroid hormone levels.""",Therapy & Rehabilitation
+"""Thyroid hormone levels returned to normal after two months.""",Medication
+"""Dermatological assessment confirms psoriasis.""",Lifestyle Recommendations
+"""Prescribed topical corticosteroids to reduce inflammation.""",Medication
+"""The patient reported significant improvement in skin condition.""",Medication
+"""Genetic testing suggests a predisposition to celiac disease.""",Test Results
+"""Recommended a strict gluten-free diet to manage symptoms.""",Lifestyle Recommendations
+"""Symptoms of bloating and fatigue disappeared after dietary changes.""",Lifestyle Recommendations
+"""Ophthalmological examination confirms glaucoma.""",Test Results
+"""Started the patient on eye drops to lower intraocular pressure.""",Medication
+"""Optic nerve health stabilized after six months of consistent medication.""",Medication
+"""Electrocardiogram (ECG) detects signs of cardiac arrhythmia.""",Medication
+"""Prescribed antiarrhythmic medication to regulate heart rhythm.""",Medication
+"""Heart rhythm normalized, and patient reports no palpitations.""",Symptoms
+"""Gastrointestinal endoscopy reveals acid reflux and mild esophagitis.""",Follow-Up Recommendations
+"""Advised lifestyle changes and prescribed proton pump inhibitors.""",Medication
+"""Acid reflux symptoms resolved, and endoscopy shows healing of the esophagus.""",Follow-Up Recommendations
+"""MRI scan indicates early signs of multiple sclerosis.""",Test Results
+"""Started on immunomodulatory therapy to slow disease progression.""",Medication
+"""The patientâ€™s mobility and coordination have improved with therapy.""",Therapy & Rehabilitation
+"""Routine screening detects high cholesterol levels.""",Test Results
+"""Statins prescribed to lower LDL cholesterol levels.""",Medication
+"""Cholesterol levels decreased, and cardiovascular risk lowered.""",Medication
+"""Clinical evaluation suggests mild cognitive impairment.""",Lifestyle Recommendations
+"""Recommended cognitive therapy and brain exercises.""",Therapy & Rehabilitation
+"""Cognitive function remained stable with therapy.""",Therapy & Rehabilitation
+"""Pulmonary function test indicates moderate asthma.""",Test Results
+"""Prescribed inhalers and advised avoidance of allergens.""",Medication
+"""Asthma symptoms are well-controlled, and no recent flare-ups reported.""",Medication
+Blood tests confirm a vitamin D deficiency.,Test Results
+Prescribed vitamin D supplements and increased sun exposure.,Medication
+Vitamin D levels normalized after three months of supplementation.,Surgical Procedures
+CT scan reveals a minor brain aneurysm.,Test Results
+Recommended regular monitoring and lifestyle modifications.,Lifestyle Recommendations
+Aneurysm remains stable with no signs of rupture after one year.,Recovery & Prognosis
+Gastrointestinal biopsy confirms Crohnâ€™s disease.,Test Results
+Started on immunosuppressive therapy to reduce inflammation.,Medication
+"Inflammation markers decreased, and symptoms improved.",Symptoms
+Urinalysis indicates signs of a urinary tract infection (UTI).,Medication
+Prescribed a seven-day course of antibiotics.,Medication
+Patient reports complete relief from UTI symptoms.,Symptoms
+Electroencephalogram (EEG) suggests epilepsy.,Diagnosis
+Prescribed anticonvulsant medication to control seizures.,Medication
+Seizures reduced in frequency with medication adherence.,Medication
+Cardiac stress test indicates reduced heart function.,Test Results
+Advised lifestyle changes and prescribed heart medications.,Medication
+Patient reports improved endurance and reduced chest pain.,Symptoms
+Colonoscopy reveals polyps in the large intestine.,Follow-Up Recommendations
+Polyps removed through minimally invasive procedure.,Follow-Up Recommendations
+Follow-up colonoscopy shows no new polyp growth.,Follow-Up Recommendations
+Ophthalmologic examination confirms cataracts in both eyes.,Surgical Procedures
+Scheduled for cataract removal surgery in both eyes.,Surgical Procedures
+Patient reports clearer vision after successful surgery.,Symptoms
+Endocrine tests indicate hyperthyroidism.,Test Results
+Prescribed anti-thyroid medication to regulate hormone levels.,Medication
+Thyroid hormone levels stabilized after three months of treatment.,Surgical Procedures
+PET scan detects localized prostate cancer.,Follow-Up Recommendations
+Radiation therapy initiated to target cancer cells.,Therapy & Rehabilitation
+Cancer markers show significant reduction post-treatment.,Recovery & Prognosis
+MRI confirms herniated disc in the lumbar spine.,Test Results
+Recommended physical therapy and pain management medication.,Medication
+Patient reports decreased back pain and improved mobility.,Symptoms
+Skin examination suggests early-stage rosacea.,Test Results
+Prescribed topical creams and lifestyle recommendations.,Medication
+Redness and flare-ups reduced significantly with treatment.,Therapy & Rehabilitation
+Doppler ultrasound indicates deep vein thrombosis (DVT).,Lifestyle Recommendations
+Started on anticoagulant therapy to prevent clot expansion.,Medication
+"Clot dissolved, and patient remains symptom-free.",Recovery & Prognosis
+CT scan identifies early signs of emphysema.,Test Results
+Recommended smoking cessation and pulmonary rehabilitation.,Therapy & Rehabilitation
+Lung function stabilized with therapy and lifestyle changes.,Therapy & Rehabilitation
+Allergy testing confirms severe pollen allergy.,Lifestyle Recommendations
+Prescribed antihistamines and advised avoidance measures.,Medication
+Seasonal allergy symptoms significantly reduced.,Therapy & Rehabilitation
+Routine mammogram detects abnormal breast tissue growth.,Surgical Procedures
+"Biopsy performed, confirming benign fibroadenoma.",Surgical Procedures
+No further growth observed; patient remains under observation.,Recovery & Prognosis
+Liver biopsy suggests fatty liver disease.,Lifestyle Recommendations
+Recommended dietary changes and exercise for liver health.,Lifestyle Recommendations
+Liver enzyme levels improved with lifestyle changes.,Medication
+CT angiography shows narrowing of carotid arteries.,Test Results
+Prescribed statins and advised low-cholesterol diet.,Medication
+"Arterial health improved, and no stroke risk detected.",Complications & Side Effects
+Blood test indicates severe dehydration.,Test Results
+Administered IV fluids and electrolyte replacement.,Medication
+"Hydration levels restored, and patient reported feeling better.",Medication
+Neurological evaluation suggests early-onset dementia.,Test Results
+Initiated memory training exercises and cognitive therapy.,Therapy & Rehabilitation
+Cognitive decline slowed with early intervention.,Recovery & Prognosis
+Hematology tests reveal elevated white blood cell count.,Test Results
+Conducted further tests and prescribed anti-inflammatory medication.,Medication
+White blood cell count returned to normal.,Test Results
+Skin patch testing confirms latex allergy.,Lifestyle Recommendations
+Advised avoidance and prescribed emergency epinephrine injector.,Medication
+No allergic reactions reported with preventive measures.,Medication
+"""Blood test results indicate high uric acid levels, suggesting gout.""",Test Results
+"""Prescribed allopurinol and advised a low-purine diet.""",Medication
+"""Uric acid levels decreased, and joint pain resolved.""",Medication
+"""X-ray confirms osteoarthritis in both knees.""",Test Results
+"""Started on physical therapy and anti-inflammatory medication.""",Medication
+"""Patient reports improved knee flexibility and reduced pain.""",Symptoms
+"""Audiology exam detects tinnitus in the left ear.""",Test Results
+"""Recommended sound therapy and hearing aids for relief.""",Therapy & Rehabilitation
+"""Patient experiences reduced ringing sensation after treatment.""",Recovery & Prognosis
+"""Neurological tests confirm carpal tunnel syndrome.""",Surgical Procedures
+"""Prescribed wrist splints and pain management therapy.""",Medication
+"""Wrist pain and numbness significantly improved.""",Surgical Procedures
+"""Gastroscopy confirms H. pylori infection in the stomach lining.""",Test Results
+"""Prescribed a two-week course of antibiotics and proton pump inhibitors.""",Medication
+"""Follow-up tests show complete eradication of H. pylori.""",Follow-Up Recommendations
+"""ECG shows signs of bradycardia.""",Recovery & Prognosis
+"""Implanted a pacemaker to regulate heart rate.""",Medication
+"""Heart rate stabilized, and patient reported no dizziness.""",Medication
+"""Urinalysis detects kidney stones in the left kidney.""",Complications & Side Effects
+"""Prescribed pain relievers and advised increased water intake.""",Medication
+"""Kidney stones passed naturally with no further complications.""",Complications & Side Effects
+"""Skin examination suggests basal cell carcinoma.""",Test Results
+"""Performed surgical removal of the lesion.""",Surgical Procedures
+"""No recurrence observed, and wound healed properly.""",Surgical Procedures
+"""MRI scan confirms a torn meniscus in the right knee.""",Test Results
+"""Recommended arthroscopic surgery for repair.""",Surgical Procedures
+"""Patient regained full knee function after rehabilitation.""",Therapy & Rehabilitation
+"""Colonoscopy identifies inflammatory bowel disease (IBD).""",Follow-Up Recommendations
+"""Started on corticosteroids and dietary modifications.""",Medication
+"""Inflammation reduced, and digestive symptoms improved.""",Medication
+"""EEG results indicate absence seizures.""",Test Results
+"""Prescribed anti-seizure medication for daily management.""",Medication
+"""Seizure frequency reduced significantly.""",Therapy & Rehabilitation
+"""Lung function tests confirm chronic bronchitis.""",Test Results
+"""Advised pulmonary rehabilitation and prescribed bronchodilators.""",Medication
+"""Patient experiences better breathing and reduced coughing.""",Symptoms
+"""Genetic testing suggests a risk of Huntingtonâ€™s disease.""",Lifestyle Recommendations
+"""Offered genetic counseling and symptom monitoring.""",Therapy & Rehabilitation
+"""No significant symptom progression observed over the past year.""",Surgical Procedures
+"""Blood pressure readings confirm stage 2 hypertension.""",Medication
+"""Prescribed ACE inhibitors and lifestyle modifications.""",Medication
+"""Blood pressure stabilized within the normal range.""",Medication
+"""Dental examination detects periodontitis.""",Test Results
+"""Performed deep cleaning and prescribed antibiotic mouthwash.""",Medication
+"""Gum health improved, and no further inflammation detected.""",Follow-Up Recommendations
+"""Endoscopy reveals Barrettâ€™s esophagus.""",Follow-Up Recommendations
+"""Prescribed acid-reducing medication and regular monitoring.""",Medication
+"""No signs of progression to cancer after six months.""",Therapy & Rehabilitation
+"""CT scan identifies a benign adrenal gland tumor.""",Test Results
+"""Recommended watchful waiting and hormonal testing.""",Lifestyle Recommendations
+"""No changes in tumor size, and hormone levels remain stable.""",Recovery & Prognosis
+"""Blood test results confirm Lyme disease.""",Test Results
+"""Started a 21-day antibiotic treatment.""",Therapy & Rehabilitation
+"""Symptoms fully resolved, and follow-up tests are clear.""",Follow-Up Recommendations
+"""MRI shows compression of the sciatic nerve.""",Test Results
+"""Recommended physiotherapy and prescribed muscle relaxants.""",Medication
+"""Patient reports reduced back pain and improved mobility.""",Symptoms
+"""Ultrasound identifies multiple gallstones.""",Lifestyle Recommendations
+"""Scheduled laparoscopic gallbladder removal surgery.""",Surgical Procedures
+"""No digestive issues post-surgery; patient fully recovered.""",Surgical Procedures
+"""CT scan confirms spinal stenosis in the lower back.""",Test Results
+"""Referred for physical therapy and prescribed pain relievers.""",Medication
+"""Patient reports improved posture and reduced nerve pain.""",Symptoms
+"""Blood work detects high triglyceride levels.""",Test Results
+"""Prescribed omega-3 supplements and dietary changes.""",Medication
+"""Triglyceride levels decreased to a healthy range.""",Medication
+"""Lung biopsy results indicate non-small cell lung cancer.""",Therapy & Rehabilitation
+"""Initiated targeted therapy based on genetic markers.""",Therapy & Rehabilitation
+"""Tumor shrank by 50% after four months of treatment.""",Recovery & Prognosis
+"""Routine check-up detects a heart murmur.""",Lifestyle Recommendations
+"""Ordered echocardiogram and prescribed beta-blockers.""",Medication
+"""No significant changes in cardiac function after monitoring.""",Medication
+"""PET scan reveals liver metastases.""",Test Results
+"""Started combination chemotherapy for systemic treatment.""",Therapy & Rehabilitation
+"""Tumor markers show partial remission.""",Therapy & Rehabilitation
+"""Genetic screening confirms sickle cell anemia.""",Follow-Up Recommendations
+"""Prescribed folic acid and pain management therapy.""",Medication
+"""Reduced frequency of pain crises reported.""",Medication
+"""Neurology exam detects early signs of multiple system atrophy.""",Test Results
+"""Prescribed medication to manage symptoms and improve mobility.""",Medication
+"""Symptoms stabilized, and quality of life improved.""",Medication
+"""Blood test reveals elevated calcium levels, indicating hypercalcemia.""",Test Results
+"""Prescribed intravenous fluids and bisphosphonates.""",Medication
+"""Calcium levels returned to normal after treatment.""",Surgical Procedures
+"""MRI scan confirms spinal cord compression.""",Test Results
+"""Scheduled emergency decompression surgery.""",Surgical Procedures
+"""Patient regained mobility and pain reduced significantly.""",Therapy & Rehabilitation
+"""Neurological examination suggests Guillain-BarrÃ© syndrome.""",Test Results
+"""Initiated intravenous immunoglobulin (IVIG) therapy.""",Therapy & Rehabilitation
+"""Motor function improved, and symptoms gradually resolved.""",Medication
+"""ECG results indicate signs of atrial fibrillation.""",Symptoms
+"""Prescribed anticoagulants and beta-blockers.""",Medication
+"""Heart rhythm stabilized, and no stroke symptoms observed.""",Medication
+"""Gastroscopy reveals severe acid reflux damage.""",Test Results
+"""Prescribed proton pump inhibitors and dietary modifications.""",Medication
+"""Heartburn symptoms resolved, and esophagus healed.""",Complications & Side Effects
+"""Genetic testing suggests increased risk for breast cancer.""",Lifestyle Recommendations
+"""Recommended regular mammograms and lifestyle adjustments.""",Lifestyle Recommendations
+"""No cancer detected during follow-up screenings.""",Follow-Up Recommendations
+"""Doppler ultrasound confirms varicose veins.""",Lifestyle Recommendations
+"""Performed sclerotherapy to close affected veins.""",Therapy & Rehabilitation
+"""Swelling reduced, and veins are less visible.""",Medication
+"""Skin biopsy detects melanoma in an early stage.""",Test Results
+"""Surgically removed cancerous tissue.""",Surgical Procedures
+"""No recurrence detected during follow-up visits.""",Follow-Up Recommendations
+"""EEG confirms non-epileptic seizures due to stress.""",Medication
+"""Referred for cognitive behavioral therapy (CBT).""",Therapy & Rehabilitation
+"""Seizures reduced significantly with therapy.""",Therapy & Rehabilitation
+"""CT scan identifies an abscess in the liver.""",Test Results
+"""Performed drainage procedure and prescribed antibiotics.""",Medication
+"""Abscess resolved, and liver function normalized.""",Lifestyle Recommendations
+"""Neurological tests indicate peripheral neuropathy.""",Lifestyle Recommendations
+"""Prescribed nerve pain medication and vitamin B12 supplements.""",Medication
+"""Tingling sensation reduced, and nerve function improved.""",Symptoms
+"""Endoscopy reveals duodenal ulcers.""",Symptoms
+"""Prescribed proton pump inhibitors and eradication therapy for H. pylori.""",Medication
+"""Ulcers healed, and patient reports no pain.""",Symptoms
+"""Blood test confirms streptococcal throat infection.""",Test Results
+"""Prescribed a 10-day course of antibiotics.""",Medication
+"""Throat pain resolved, and infection cleared.""",Test Results
+"""MRI detects early-stage amyotrophic lateral sclerosis (ALS).""",Test Results
+"""Started on riluzole to slow disease progression.""",Medication
+"""Symptoms progressed slowly with medication support.""",Medication
+"""Ultrasound confirms a deep soft tissue hematoma.""",Lifestyle Recommendations
+"""Recommended rest, ice, compression, and elevation (RICE) therapy.""",Therapy & Rehabilitation
+"""Hematoma fully resolved without complications.""",Complications & Side Effects
+"""Sleep study confirms severe insomnia.""",Test Results
+"""Recommended sleep hygiene techniques and prescribed melatonin.""",Medication
+"""Sleep duration and quality significantly improved.""",Symptoms
+"""CT scan shows early-stage pancreatitis.""",Test Results
+"""Prescribed intravenous fluids and pain management therapy.""",Medication
+"""Pancreatic inflammation reduced, and patient discharged in stable condition.""",Recovery & Prognosis
+"""Pulmonary function test detects mild chronic obstructive pulmonary disease (COPD).""",Medication
+"""Prescribed inhalers and recommended smoking cessation.""",Medication
+"""Breathing improved, and symptoms well-managed.""",Medication
+"""Routine screening detects elevated PSA levels.""",Test Results
+"""Performed biopsy, confirming benign prostatic hyperplasia (BPH).""",Surgical Procedures
+"""Urinary symptoms improved with medication.""",Medication
+"""Blood test confirms lead poisoning.""",Test Results
+"""Chelation therapy initiated to remove heavy metals.""",Therapy & Rehabilitation
+"""Lead levels reduced, and symptoms improved.""",Medication
+"""Ultrasound detects polycystic ovary syndrome (PCOS).""",Lifestyle Recommendations
+"""Prescribed hormonal therapy and lifestyle modifications.""",Medication
+"""Menstrual cycles regulated, and hormone levels balanced.""",Surgical Procedures
+"""X-ray confirms rib fractures from an accident.""",Complications & Side Effects
+"""Recommended pain management and restricted movement.""",Lifestyle Recommendations
+"""Fractures healed within eight weeks without complications.""",Complications & Side Effects
+"""CT scan detects hydrocephalus in the brain.""",Test Results
+"""Surgically placed a shunt to drain excess fluid.""",Surgical Procedures
+"""Intracranial pressure stabilized, and symptoms improved.""",Medication
+"""Electrocardiogram (ECG) identifies a ventricular septal defect (VSD).""",Surgical Procedures
+"""Scheduled open-heart surgery to repair the defect.""",Surgical Procedures
+"""Patient recovered well post-surgery with no complications.""",Surgical Procedures
+"""X-ray identifies clavicle fracture.""",Complications & Side Effects
+"""Applied a sling and prescribed pain medication.""",Medication
+"""Bone healed properly within six weeks.""",Complications & Side Effects
+"""Blood culture confirms bacterial meningitis.""",Medication
+"""Administered intravenous antibiotics immediately.""",Medication
+"""Infection cleared, and neurological function remained intact.""",Therapy & Rehabilitation
+"""Thyroid ultrasound reveals nodules.""",Lifestyle Recommendations
+"""Scheduled biopsy to assess malignancy risk.""",Surgical Procedures
+"""Nodules determined benign, and monitoring continued.""",Therapy & Rehabilitation
+"""Neurological evaluation indicates Bellâ€™s palsy.""",Lifestyle Recommendations
+"""Prescribed corticosteroids and facial exercises.""",Medication
+"""Facial nerve function fully restored after treatment.""",Therapy & Rehabilitation
+"""Routine cholesterol check shows familial hypercholesterolemia.""",Lifestyle Recommendations
+"""Prescribed statins and recommended dietary modifications.""",Medication
+"""Cholesterol levels lowered, reducing cardiovascular risk.""",Complications & Side Effects
+"""Brain CT scan confirms ischemic stroke.""",Test Results
+"""Administered thrombolytic therapy to dissolve clot.""",Medication
+"""Partial mobility regained through rehabilitation therapy.""",Therapy & Rehabilitation
+"""Gastrointestinal imaging shows esophageal stricture.""",Recovery & Prognosis
+"""Performed endoscopic dilation to widen the esophagus.""",Lifestyle Recommendations
+"""Swallowing difficulties resolved after the procedure.""",Medication
+"""Blood test indicates low hemoglobin, suggesting anemia.""",Test Results
+"""Prescribed iron supplements and dietary changes.""",Medication
+"""Hemoglobin levels normalized after three months of treatment.""",Surgical Procedures
+"""MRI scan confirms a pituitary gland tumor.""",Test Results
+"""Recommended transsphenoidal surgery for tumor removal.""",Surgical Procedures
+"""Tumor successfully removed, and hormone levels stabilized.""",Surgical Procedures
+"""Urine test detects proteinuria, suggesting kidney disease.""",Test Results
+"""Prescribed ACE inhibitors and advised dietary sodium reduction.""",Medication
+"""Protein levels in urine decreased, and kidney function improved.""",Medication
+"""CT scan reveals an abdominal aortic aneurysm.""",Test Results
+"""Scheduled surgical repair with endovascular stent grafting.""",Surgical Procedures
+"""Aneurysm successfully repaired, and patient remains stable.""",Recovery & Prognosis
+"""Skin examination identifies psoriasis.""",Diagnosis
+"""Prescribed topical corticosteroids and phototherapy.""",Medication
+"""Skin lesions reduced, and flare-ups minimized.""",Medication
+"""Blood test confirms celiac disease.""",Test Results
+"""Recommended strict gluten-free diet and vitamin supplementation.""",Lifestyle Recommendations
+"""Digestive symptoms resolved, and nutrient absorption improved.""",Surgical Procedures
+"""X-ray detects scoliosis with a 25-degree spinal curvature.""",Therapy & Rehabilitation
+"""Recommended physical therapy and monitoring for progression.""",Therapy & Rehabilitation
+"""Spinal curvature remained stable with therapy.""",Therapy & Rehabilitation
+"""Brain MRI shows white matter lesions suggestive of multiple sclerosis.""",Test Results
+"""Initiated disease-modifying therapy to slow progression.""",Therapy & Rehabilitation
+"""Symptom progression slowed, and mobility maintained.""",Therapy & Rehabilitation
+"""Ultrasound detects an ovarian cyst.""",Lifestyle Recommendations
+"""Prescribed oral contraceptives for cyst management.""",Medication
+"""Cyst resolved without surgical intervention.""",Surgical Procedures
+"""Sleep study confirms obstructive sleep apnea.""",Therapy & Rehabilitation
+"""Prescribed CPAP therapy for improved breathing.""",Medication
+"""Patient reports better sleep quality and reduced daytime fatigue.""",Symptoms
+"""Blood glucose test confirms type 2 diabetes.""",Test Results
+"""Started on metformin and advised a low-carb diet.""",Medication
+"""Blood sugar levels improved, reducing risk of complications.""",Complications & Side Effects
+"""Cardiac catheterization confirms coronary artery disease.""",Test Results
+"""Performed angioplasty with stent placement.""",Surgical Procedures
+"""Chest pain resolved, and heart function improved.""",Symptoms
+"""Colonoscopy identifies diverticulitis.""",Follow-Up Recommendations
+"""Prescribed antibiotics and recommended high-fiber diet.""",Medication
+"""Inflammation subsided, and digestion normalized.""",Complications & Side Effects
+"""Neurological evaluation suggests Parkinsonâ€™s disease.""",Lifestyle Recommendations
+"""Initiated dopamine therapy to manage symptoms.""",Therapy & Rehabilitation
+"""Tremors reduced, and daily activities improved.""",Medication
+"""Hearing test detects moderate hearing loss.""",Surgical Procedures
+"""Prescribed hearing aids for better auditory function.""",Medication
+"""Patient reports improved hearing and communication.""",Symptoms
+"""Electromyography (EMG) confirms carpal tunnel syndrome.""",Surgical Procedures
+"""Performed carpal tunnel release surgery.""",Surgical Procedures
+"""Hand pain and numbness resolved post-surgery.""",Surgical Procedures
+"""X-ray identifies a stress fracture in the left tibia.""",Complications & Side Effects
+"""Recommended non-weight-bearing and bone-strengthening therapy.""",Therapy & Rehabilitation
+"""Fracture healed within 10 weeks without complications.""",Complications & Side Effects
+"""Blood test indicates vitamin B12 deficiency.""",Test Results
+"""Prescribed B12 injections and dietary changes.""",Medication
+"""Energy levels improved, and deficiency corrected.""",Medication
+"""Liver function tests suggest hepatitis B infection.""",Test Results
+"""Initiated antiviral therapy to suppress viral load.""",Therapy & Rehabilitation
+"""Viral load decreased, and liver function stabilized.""",Therapy & Rehabilitation
+"""CT scan confirms early-stage lung fibrosis.""",Test Results
+"""Prescribed anti-inflammatory therapy and breathing exercises.""",Medication
+"""Lung function maintained with therapy.""",Therapy & Rehabilitation
+"""Gastrointestinal imaging detects gallbladder sludge.""",Lifestyle Recommendations
+"""Advised dietary changes and monitored for gallstone formation.""",Lifestyle Recommendations
+"""No gallstones developed, and digestion improved.""",Complications & Side Effects
+"""Ultrasound reveals deep vein thrombosis (DVT) in the leg.""",Lifestyle Recommendations
+"""Started anticoagulant therapy to prevent clot expansion.""",Therapy & Rehabilitation
+"""Clot dissolved, and patient remains symptom-free.""",Recovery & Prognosis
+"""Routine check-up detects abnormal liver enzymes.""",Test Results
+"""Prescribed lifestyle modifications and regular monitoring.""",Medication
+"""Liver enzymes returned to normal within six months.""",Test Results
+"""Endoscopy confirms esophageal varices.""",Follow-Up Recommendations
+"""Initiated beta-blocker therapy and dietary changes.""",Therapy & Rehabilitation
+"""Varices remained stable, reducing risk of rupture.""",Recovery & Prognosis
+"""CT scan detects kidney cysts.""",Test Results
+"""Recommended periodic monitoring for growth assessment.""",Lifestyle Recommendations
+"""Cysts remained stable with no complications.""",Recovery & Prognosis
+"""MRI confirms spinal tumor near the thoracic vertebrae.""",Therapy & Rehabilitation
+"""Scheduled surgical removal of the tumor.""",Surgical Procedures
+"""Tumor successfully removed, and patient recovered well.""",Surgical Procedures
+"""Neurological tests suggest early-stage Alzheimerâ€™s disease.""",Test Results
+"""Initiated cognitive therapy and memory-enhancing medications.""",Medication
+"""Cognitive decline slowed with early intervention.""",Recovery & Prognosis
+"""Hematology tests confirm leukemia.""",Test Results
+"""Started chemotherapy and bone marrow monitoring.""",Therapy & Rehabilitation
+"""Cancer markers decreased, showing positive response to treatment.""",Therapy & Rehabilitation
+"""Thyroid function tests indicate hypothyroidism.""",Lifestyle Recommendations
+"""Prescribed levothyroxine to regulate hormone levels.""",Medication
+"""Symptoms improved, and hormone levels normalized.""",Surgical Procedures
+"""X-ray confirms fractured pelvis after a fall.""",Test Results
+"""Surgical fixation performed, followed by rehabilitation.""",Therapy & Rehabilitation
+"""Fracture healed, and mobility restored.""",Complications & Side Effects
+"""Electrocardiogram (ECG) detects left ventricular hypertrophy.""",Test Results
+"""Prescribed antihypertensive medication and advised exercise.""",Medication
+"""Heart function stabilized with medication adherence.""",Medication
+"""Skin biopsy identifies eczema.""",Surgical Procedures
+"""Prescribed moisturizing creams and anti-inflammatory medication.""",Medication
+"""Itching and redness reduced, improving skin condition.""",Recovery & Prognosis
+"""X-ray shows degenerative changes in the knee joint, suggesting osteoarthritis.""",Medication
+"""Prescribed NSAIDs, physiotherapy, and weight management.""",Medication
+"""Knee pain reduced, and mobility improved.""",Symptoms
+"""Blood test detects elevated bilirubin levels, indicating jaundice.""",Test Results
+"""Recommended hydration and liver function monitoring.""",Lifestyle Recommendations
+"""Bilirubin levels normalized, and jaundice resolved.""",Test Results
+"""Brain MRI identifies a small meningioma.""",Therapy & Rehabilitation
+"""Scheduled periodic MRI scans to monitor growth.""",Lifestyle Recommendations
+"""No significant growth observed over two years.""",Surgical Procedures
+"""Blood culture confirms sepsis caused by bacterial infection.""",Medication
+"""Administered broad-spectrum IV antibiotics and fluids.""",Medication
+"""Infection cleared, and patient stabilized.""",Medication
+"""Pulmonary function test shows restrictive lung disease.""",Therapy & Rehabilitation
+"""Prescribed corticosteroids and pulmonary rehabilitation exercises.""",Medication
+"""Lung capacity improved, and symptoms managed.""",Medication
+"""EEG results confirm temporal lobe epilepsy.""",Test Results
+"""Started on anticonvulsant medication.""",Medication
+"""Seizure frequency reduced significantly.""",Therapy & Rehabilitation
+"""X-ray detects a hip fracture after a fall.""",Surgical Procedures
+"""Performed hip replacement surgery.""",Surgical Procedures
+"""Patient regained mobility with physical therapy.""",Therapy & Rehabilitation
+"""Hearing test confirms otosclerosis in both ears.""",Test Results
+"""Scheduled stapedectomy to improve hearing.""",Therapy & Rehabilitation
+"""Hearing improved post-surgery.""",Surgical Procedures
+"""Endoscopy identifies a peptic ulcer.""",Follow-Up Recommendations
+"""Prescribed proton pump inhibitors and antibiotics for H. pylori.""",Medication
+"""Ulcer healed, and stomach pain resolved.""",Symptoms
+"""CT scan reveals early-stage liver cirrhosis.""",Test Results
+"""Advised lifestyle changes and prescribed hepatoprotective drugs.""",Medication
+"""Liver function stabilized with continued monitoring.""",Lifestyle Recommendations
+"""Neurological exam indicates trigeminal neuralgia.""",Lifestyle Recommendations
+"""Started on anticonvulsant medication for nerve pain relief.""",Medication
+"""Pain episodes decreased significantly.""",Symptoms
+"""Blood test detects high uric acid levels, suggesting gout.""",Test Results
+"""Prescribed uric acid-lowering medication and dietary changes.""",Medication
+"""Joint pain episodes reduced with treatment.""",Medication
+"""Colonoscopy reveals colorectal polyps.""",Follow-Up Recommendations
+"""Performed polypectomy to remove the polyps.""",Follow-Up Recommendations
+"""No recurrence observed in follow-up screening.""",Follow-Up Recommendations
+"""CT angiography confirms an arterial blockage.""",Test Results
+"""Scheduled bypass surgery to restore blood flow.""",Surgical Procedures
+"""Blood flow improved, and symptoms resolved.""",Medication
+"""Ultrasound detects gallstones causing cholecystitis.""",Lifestyle Recommendations
+"""Performed laparoscopic cholecystectomy.""",Surgical Procedures
+"""Pain and digestive issues resolved post-surgery.""",Surgical Procedures
+"""Electrocardiogram (ECG) detects Wolff-Parkinson-White syndrome.""",Test Results
+"""Recommended catheter ablation to correct heart rhythm.""",Lifestyle Recommendations
+"""Arrhythmia resolved, and patient remains asymptomatic.""",Recovery & Prognosis
+"""MRI scan shows a herniated lumbar disc.""",Test Results
+"""Prescribed pain management therapy and physiotherapy.""",Medication
+"""Back pain reduced, avoiding the need for surgery.""",Surgical Procedures
+"""Blood test confirms hemophilia A.""",Test Results
+"""Initiated factor VIII replacement therapy.""",Therapy & Rehabilitation
+"""Bleeding episodes minimized with ongoing treatment.""",Lifestyle Recommendations
+"""X-ray shows chronic sinusitis with nasal polyps.""",Follow-Up Recommendations
+"""Prescribed corticosteroids and nasal irrigation.""",Medication
+"""Sinus congestion and headaches reduced.""",Therapy & Rehabilitation
+"""CT scan detects an adrenal gland tumor.""",Test Results
+"""Scheduled adrenalectomy to remove the tumor.""",Surgical Procedures
+"""Hormone levels stabilized post-surgery.""",Surgical Procedures
+"""Routine check-up detects mild scoliosis progression.""",Recovery & Prognosis
+"""Recommended bracing and postural exercises.""",Lifestyle Recommendations
+"""Spinal curvature remained stable with treatment.""",Recovery & Prognosis
+"""Ultrasound confirms pregnancy at eight weeks.""",Recovery & Prognosis
+"""Advised prenatal vitamins and regular check-ups.""",Lifestyle Recommendations
+"""Healthy pregnancy with no complications.""",Recovery & Prognosis
+"""Doppler ultrasound identifies atherosclerosis in the carotid artery.""",Lifestyle Recommendations
+"""Prescribed cholesterol-lowering medication and lifestyle changes.""",Medication
+"""Artery narrowing stabilized with medication.""",Medication
+"""Neurological examination suggests myasthenia gravis.""",Lifestyle Recommendations
+"""Started on acetylcholinesterase inhibitors.""",Medication
+"""Muscle weakness improved with treatment.""",Medication
+"""CT scan detects a pancreatic cyst.""",Test Results
+"""Recommended regular imaging and follow-up.""",Lifestyle Recommendations
+"""Cyst remained stable without complications.""",Recovery & Prognosis
+"""Blood test confirms hyperthyroidism.""",Test Results
+"""Prescribed antithyroid medication and beta-blockers.""",Medication
+"""Thyroid hormone levels returned to normal.""",Medication
+"""MRI scan identifies a pituitary adenoma.""",Test Results
+"""Scheduled transsphenoidal surgery for tumor removal.""",Surgical Procedures
+"""Hormone levels stabilized after surgery.""",Surgical Procedures
+"""Colonoscopy reveals inflammatory bowel disease (IBD).""",Follow-Up Recommendations
+"""Started on biologic therapy and dietary adjustments.""",Medication
+"""Symptoms managed effectively with ongoing treatment.""",Recovery & Prognosis
+"""Blood test indicates thrombocytopenia.""",Test Results
+"""Prescribed corticosteroids to increase platelet count.""",Medication
+"""Platelet levels improved with medication.""",Medication
+"""X-ray shows lung consolidation, indicating pneumonia.""",Test Results
+"""Prescribed antibiotics and breathing therapy.""",Medication
+"""Cough and fever resolved, and lung function restored.""",Therapy & Rehabilitation
+"""Gastrointestinal imaging detects a hiatal hernia.""",Surgical Procedures
+"""Recommended dietary changes and prescribed acid reducers.""",Medication
+"""Heartburn and reflux symptoms improved.""",Follow-Up Recommendations
+"""Neurological tests confirm cluster headaches.""",Test Results
+"""Prescribed triptans and oxygen therapy for pain relief.""",Medication
+"""Headache frequency and intensity reduced.""",Medication
+"""CT scan detects pericardial effusion.""",Test Results
+"""Performed pericardiocentesis to drain excess fluid.""",Surgical Procedures
+"""Cardiac function improved after fluid removal.""",Medication
+"""Ultrasound detects a testicular cyst.""",Lifestyle Recommendations
+"""Recommended observation and periodic check-ups.""",Lifestyle Recommendations
+"""No changes in cyst size, and no intervention required.""",Surgical Procedures
+"""Electrodiagnostic tests indicate multiple sclerosis relapse.""",Diagnosis
+"""Adjusted immunomodulatory therapy dosage.""",Therapy & Rehabilitation
+"""Relapse symptoms improved with medication adjustment.""",Medication
+"""Liver biopsy confirms non-alcoholic fatty liver disease (NAFLD).""",Lifestyle Recommendations
+"""Advised weight loss and prescribed hepatoprotective medication.""",Medication
+"""Liver enzyme levels normalized with lifestyle changes.""",Surgical Procedures
+"Blood test detects elevated cholesterol levels.""",Test Results
+"""Prescribed statins and recommended a low-fat diet.""",Medication
+"""Cholesterol levels decreased with medication and diet.""",Medication
+"""MRI scan reveals a brain aneurysm.""",Test Results
+"""Scheduled surgical clipping to prevent rupture.""",Surgical Procedures
+"""Aneurysm successfully treated, and patient remains stable.""",Recovery & Prognosis
+"""Electrocardiogram (ECG) detects atrial fibrillation.""",Test Results
+"""Started on anticoagulants and rate control medication.""",Medication
+"""Heart rhythm managed, reducing stroke risk.""",Complications & Side Effects
+"""Endoscopy shows Barrettâ€™s esophagus.""",Follow-Up Recommendations
+"""Prescribed proton pump inhibitors and lifestyle modifications.""",Medication
+"""Acid reflux symptoms reduced, and follow-ups scheduled.""",Follow-Up Recommendations
+"""Ultrasound detects polycystic ovary syndrome (PCOS).""",Lifestyle Recommendations
+"""Prescribed hormonal therapy and lifestyle changes.""",Medication
+"""Menstrual cycle regularized, and symptoms managed.""",Surgical Procedures
+"""X-ray confirms rib fracture.""",Complications & Side Effects
+"""Recommended pain management and limited activity.""",Lifestyle Recommendations
+"""Fracture healed within six weeks without complications.""",Complications & Side Effects
+"""Blood test detects vitamin D deficiency.""",Test Results
+"""Prescribed vitamin D supplements and sun exposure.""",Medication
+"""Vitamin D levels normalized, and bone pain resolved.""",Surgical Procedures
+"""MRI identifies spinal stenosis.""",Therapy & Rehabilitation
+"""Recommended physical therapy and anti-inflammatory medication.""",Medication
+"""Pain and mobility improved with treatment.""",Symptoms
+"""Urinalysis detects a urinary tract infection (UTI).""",Test Results
+"""Prescribed antibiotics and advised increased hydration.""",Medication
+"""Infection cleared, and symptoms resolved.""",Follow-Up Recommendations
+"""Neurological exam suggests Bellâ€™s palsy.""",Lifestyle Recommendations
+"""Prescribed corticosteroids and facial exercises.""",Medication
+"""Facial paralysis improved over weeks.""",Medication
+"""CT scan detects a kidney stone.""",Test Results
+"""Recommended increased fluid intake and prescribed pain relievers.""",Medication
+"""Stone passed naturally without surgery.""",Surgical Procedures
+"""Electromyography (EMG) confirms peripheral neuropathy.""",Test Results
+"""Prescribed nerve pain medication and vitamin B supplements.""",Medication
+"""Numbness and tingling reduced.""",Surgical Procedures
+"""Blood test detects hepatitis C infection.""",Test Results
+"""Started antiviral therapy for viral suppression.""",Therapy & Rehabilitation
+"""Virus undetectable after treatment.""",Recovery & Prognosis
+"""Colonoscopy confirms Crohnâ€™s disease.""",Test Results
+"""Prescribed immunosuppressants and dietary modifications.""",Medication
+"""Inflammation controlled, reducing flare-ups.""",Medication
+"""Doppler ultrasound identifies varicose veins.""",Lifestyle Recommendations
+"""Recommended compression therapy and lifestyle changes.""",Therapy & Rehabilitation
+"""Swelling and discomfort reduced.""",Medication
+"""CT scan shows mild hydrocephalus.""",Test Results
+"""Recommended periodic monitoring and neurological exams.""",Lifestyle Recommendations
+"""No worsening of condition observed.""",Complications & Side Effects
+"""X-ray confirms shoulder dislocation.""",Therapy & Rehabilitation
+"""Performed closed reduction and immobilization.""",Follow-Up Recommendations
+"""Shoulder stability restored with rehabilitation.""",Therapy & Rehabilitation
+"""Blood test detects iron overload, suggesting hemochromatosis.""",Test Results
+"""Started therapeutic phlebotomy to lower iron levels.""",Medication
+"""Iron levels normalized, reducing organ damage risk.""",Complications & Side Effects
+"""Ultrasound detects an enlarged prostate (BPH).""",Lifestyle Recommendations
+"""Prescribed alpha-blockers to improve urinary flow.""",Medication
+"""Urinary symptoms relieved, avoiding surgery.""",Surgical Procedures
+"""Neurological exam suggests restless legs syndrome.""",Test Results
+"""Prescribed dopamine agonists for symptom relief.""",Medication
+"""Leg discomfort reduced, improving sleep quality.""",Symptoms
+"""Endoscopy confirms gastritis.""",Follow-Up Recommendations
+"""Prescribed acid reducers and dietary adjustments.""",Medication
+"""Stomach inflammation healed, and symptoms resolved.""",Complications & Side Effects
+"""X-ray detects a broken clavicle.""",Test Results
+"""Recommended arm sling and pain management.""",Lifestyle Recommendations
+"""Fracture healed with full shoulder movement restored.""",Complications & Side Effects
+"""Blood test confirms lupus (SLE).""",Test Results
+"""Started on immunosuppressants and anti-inflammatory medication.""",Medication
+"""Disease activity controlled, reducing flare-ups.""",Medication
+"""MRI scan detects early-stage osteosarcoma.""",Test Results
+"""Started chemotherapy before tumor resection.""",Therapy & Rehabilitation
+"""Cancer in remission after successful treatment.""",Recovery & Prognosis
+"""Electrocardiogram (ECG) shows premature ventricular contractions (PVCs).""",Test Results
+"""Prescribed beta-blockers to control heart rhythm.""",Medication
+"""Heart palpitations reduced, and no complications observed.""",Recovery & Prognosis
+"""Ultrasound detects an aortic aneurysm.""",Lifestyle Recommendations
+"""Scheduled endovascular repair to prevent rupture.""",Surgical Procedures
+"""Aneurysm successfully treated with no complications.""",Recovery & Prognosis
+"""CT scan shows mild cerebral atrophy.""",Test Results
+"""Recommended cognitive exercises and memory training.""",Lifestyle Recommendations
+"""Cognitive decline stabilized with mental exercises.""",Lifestyle Recommendations
+"""Blood test confirms Cushingâ€™s syndrome.""",Test Results
+"""Prescribed cortisol-lowering medication and monitoring.""",Medication
+"""Hormone levels stabilized with treatment.""",Surgical Procedures
+"""MRI reveals a Chiari malformation.""",Test Results
+"""Recommended periodic monitoring and symptom management.""",Lifestyle Recommendations
+"""Symptoms remained stable without surgery.""",Surgical Procedures
+"""Ultrasound shows an abdominal hernia.""",Follow-Up Recommendations
+"""Scheduled hernia repair surgery.""",Surgical Procedures
+"""Successful surgery, and no recurrence observed.""",Surgical Procedures
+"""Pulmonary function test detects mild COPD.""",Test Results
+"""Prescribed bronchodilators and advised smoking cessation.""",Medication
+"""Breathing improved, and no further deterioration observed.""",Medication
+"""Blood test detects Lyme disease.""",Test Results
+"""Prescribed a course of antibiotics.""",Medication
+"""Symptoms resolved, and infection cleared.""",Follow-Up Recommendations
+"""MRI scan shows early-stage dementia.""",Test Results
+"""Started cognitive therapy and memory support strategies.""",Therapy & Rehabilitation
+"""Progression slowed with early intervention.""",Surgical Procedures
+"""Colonoscopy detects sigmoid diverticulosis.""",Follow-Up Recommendations
+"""Recommended high-fiber diet and lifestyle changes.""",Lifestyle Recommendations
+"""No complications, and symptoms remained mild.""",Recovery & Prognosis
+"""X-ray identifies cervical spondylosis.""",Diagnosis
+"""Prescribed physical therapy and pain relievers.""",Medication
+"""Neck mobility improved, and pain reduced.""",Symptoms
+"""Ultrasound detects a breast cyst.""",Lifestyle Recommendations
+"""Recommended fine-needle aspiration and follow-up imaging.""",Lifestyle Recommendations
+"""Cyst resolved with no malignant changes.""",Surgical Procedures
+"""Blood test confirms rheumatoid arthritis.""",Test Results
+"""Started on DMARDs and physical therapy.""",Medication
+"""Joint pain managed, improving mobility.""",Medication
+"""Blood test shows severe anemia.""",Test Results
+"""Prescribed iron supplements and dietary changes.""",Medication
+"""Hemoglobin levels improved over time.""",Recovery & Prognosis
+"""X-ray detects early-stage emphysema.""",Test Results
+"""Recommended smoking cessation and bronchodilators.""",Lifestyle Recommendations
+"""Breathing improved, and lung damage slowed.""",Medication
+"""CT scan confirms mild brain atrophy.""",Test Results
+"""Suggested cognitive therapy and lifestyle modifications.""",Therapy & Rehabilitation
+"""Cognitive function remained stable over follow-ups.""",Recovery & Prognosis
+"""Ultrasound shows gallstones.""",Follow-Up Recommendations
+"""Scheduled laparoscopic cholecystectomy.""",Surgical Procedures
+"""Gallbladder removed successfully, and digestion improved.""",Complications & Side Effects
+"""Electrocardiogram (ECG) detects left ventricular hypertrophy.""",Test Results
+"""Started antihypertensive medication and advised exercise.""",Medication
+"""Heart function improved, and blood pressure controlled.""",Medication
+"""MRI reveals early-stage glaucoma.""",Test Results
+"""Prescribed eye drops to lower intraocular pressure.""",Medication
+"""Vision remained stable with treatment.""",Recovery & Prognosis
+"""Pulmonary function test indicates interstitial lung disease.""",Therapy & Rehabilitation
+"""Prescribed corticosteroids and oxygen therapy.""",Medication
+"""Lung function stabilized with treatment.""",Therapy & Rehabilitation
+"""Ultrasound detects an ovarian tumor.""",Lifestyle Recommendations
+"""Scheduled biopsy and surgical removal.""",Surgical Procedures
+"""Tumor successfully removed, and no malignancy found.""",Follow-Up Recommendations
+"""Colonoscopy identifies early-stage colon cancer.""",Test Results
+"""Started chemotherapy and scheduled surgery.""",Therapy & Rehabilitation
+"""Tumor removed successfully, and cancer in remission.""",Surgical Procedures
+"""EEG confirms epilepsy.""",Test Results
+"""Prescribed anti-seizure medication.""",Medication
+"""Seizures controlled with medication adjustment.""",Medication
+"""Endoscopy detects stomach ulcers.""",Symptoms
+"""Prescribed proton pump inhibitors and dietary changes.""",Medication
+"""Ulcers healed, and symptoms resolved.""",Symptoms
+"""Blood test detects Lyme disease.""",Test Results
+"""Started antibiotic therapy.""",Therapy & Rehabilitation
+"""Infection cleared, and symptoms resolved.""",Follow-Up Recommendations
+"""X-ray confirms mild scoliosis.""",Recovery & Prognosis
+"""Recommended physical therapy and posture correction.""",Therapy & Rehabilitation
+"""Spinal alignment improved, and pain reduced.""",Symptoms
+"""CT scan detects a benign thyroid nodule.""",Test Results
+"""Scheduled regular monitoring and follow-up scans.""",Follow-Up Recommendations
+"""No growth observed, and thyroid function remained normal.""",Therapy & Rehabilitation
+"""Doppler ultrasound detects mild carotid artery stenosis.""",Lifestyle Recommendations
+"""Prescribed cholesterol-lowering medication and lifestyle changes.""",Medication
+"""Artery narrowing stabilized with treatment.""",Medication
+"""Blood test detects vitamin B12 deficiency.""",Test Results
+"""Started vitamin B12 injections.""",Medication
+"""Energy levels improved, and deficiency corrected.""",Medication
+"""MRI reveals a small pituitary tumor.""",Test Results
+"""Recommended monitoring and hormonal therapy.""",Therapy & Rehabilitation
+"""No tumor growth observed over time.""",Recovery & Prognosis
+"""Genetic test confirms BRCA1 mutation.""",Test Results
+"""Scheduled preventive mastectomy consultation.""",Therapy & Rehabilitation
+"""Patient opted for regular monitoring instead of surgery.""",Surgical Procedures
+"""CT scan detects early pulmonary fibrosis.""",Test Results
+"""Prescribed antifibrotic medication and oxygen therapy.""",Medication
+"""Breathing improved, and disease progression slowed.""",Medication
+"""Ultrasound detects kidney cysts.""",Follow-Up Recommendations
+"""Recommended regular imaging and kidney function tests.""",Lifestyle Recommendations
+"""Cysts remained stable without complications.""",Recovery & Prognosis
+"""Neurological exam suggests Guillain-BarrÃ© syndrome.""",Test Results
+"""Started intravenous immunoglobulin therapy.""",Therapy & Rehabilitation
+"""Nerve function gradually improved.""",Symptoms
+"""Blood test detects high triglycerides.""",Test Results
+"""Prescribed lipid-lowering medication and advised dietary changes.""",Medication
+"""Triglyceride levels reduced significantly.""",Therapy & Rehabilitation
+"""Colonoscopy confirms diverticulitis.""",Follow-Up Recommendations
+"""Prescribed antibiotics and recommended high-fiber diet.""",Medication
+"""Inflammation resolved, preventing recurrence.""",Follow-Up Recommendations
+"""X-ray detects bone spurs in the knee.""",Therapy & Rehabilitation
+"""Recommended physiotherapy and anti-inflammatory medication.""",Medication
+"""Pain reduced, and mobility improved.""",Symptoms
+"""MRI scan reveals a torn meniscus.""",Test Results
+"""Scheduled arthroscopic knee surgery.""",Surgical Procedures
+"""Knee function restored after rehabilitation.""",Therapy & Rehabilitation
+"""EEG detects abnormal brain activity suggestive of seizure disorder.""",Therapy & Rehabilitation
+"""Prescribed anti-epileptic medication.""",Medication
+"""Seizures controlled with medication adherence.""",Medication
+"""Pulmonary function test suggests chronic bronchitis.""",Medication
+"""Prescribed bronchodilators and advised lifestyle modifications.""",Medication
+"""Cough and breathing improved with treatment.""",Medication
+"""X-ray confirms a shoulder impingement syndrome.""",Test Results
+"""Recommended physical therapy and pain management.""",Therapy & Rehabilitation
+"""Shoulder mobility restored, and pain reduced.""",Therapy & Rehabilitation
+"""Ultrasound detects a testicular varicocele.""",Lifestyle Recommendations
+"""Recommended surgical intervention for persistent pain.""",Surgical Procedures
+"""Post-surgery, discomfort resolved, and fertility preserved.""",Surgical Procedures
+"""CT scan identifies an abdominal aortic aneurysm.""",Test Results
+"""Scheduled endovascular repair.""",Surgical Procedures
+"""Surgery successful, and aneurysm resolved.""",Surgical Procedures
+"""Neurological exam suggests carpal tunnel syndrome.""",Surgical Procedures
+"""Prescribed wrist splints and anti-inflammatory medication.""",Medication
+"""Pain and numbness reduced, avoiding surgery.""",Surgical Procedures
+"""Blood test detects elevated TSH, indicating hypothyroidism.""",Test Results
+"""Started thyroid hormone replacement therapy.""",Therapy & Rehabilitation
+"""Symptoms improved, and hormone levels normalized.""",Surgical Procedures
+"""MRI detects lumbar spinal stenosis.""",Test Results
+"""Recommended epidural steroid injections and physical therapy.""",Therapy & Rehabilitation
+"""Back pain improved, and mobility restored.""",Symptoms
+MRI scan confirms multiple sclerosis.,Test Results
+Started on disease-modifying therapy to slow progression.,Medication
+Symptoms stabilized with reduced relapse frequency.,Medication
+"Blood test shows elevated white blood cell count, suggesting infection.",Test Results
+Prescribed antibiotics for bacterial infection.,Medication
+White blood cell count returned to normal.,Test Results
+X-ray detects pleural effusion.,Test Results
+Performed thoracentesis to drain fluid.,Surgical Procedures
+"Breathing improved, and fluid did not reaccumulate.",Medication
+Colonoscopy reveals ulcerative colitis.,Follow-Up Recommendations
+Started on corticosteroids and anti-inflammatory medication.,Medication
+"Inflammation reduced, and bowel movements normalized.",Recovery & Prognosis
+Blood test confirms type 1 diabetes.,Test Results
+Initiated insulin therapy and dietary counseling.,Therapy & Rehabilitation
+Blood sugar levels controlled with medication.,Medication
+CT scan identifies an ovarian cyst.,Test Results
+Recommended monitoring with follow-up ultrasound.,Lifestyle Recommendations
+Cyst resolved without surgical intervention.,Surgical Procedures
+Neurological exam suggests ParkinsonÃ¢â‚¬â„¢s disease.,Lifestyle Recommendations
+Prescribed dopamine replacement therapy.,Medication
+Tremors and stiffness improved with medication.,Medication
+Doppler ultrasound shows deep vein thrombosis (DVT).,Follow-Up Recommendations
+Started anticoagulation therapy.,Therapy & Rehabilitation
+Blood clot resolved without complications.,Complications & Side Effects
+Gastroscopy identifies esophageal varices.,Recovery & Prognosis
+Recommended endoscopic banding to prevent bleeding.,Lifestyle Recommendations
+No further bleeding episodes observed.,Lifestyle Recommendations
+X-ray confirms metatarsal stress fracture.,Complications & Side Effects
+Advised rest and orthopedic footwear.,Lifestyle Recommendations
+Fracture healed within weeks.,Complications & Side Effects
+"CT scan shows pancreatic calcifications, suggesting chronic pancreatitis.",Test Results
+Prescribed enzyme supplements and pain management.,Medication
+Digestive symptoms improved with treatment.,Medication
+Blood test detects Epstein-Barr virus (EBV) infection.,Test Results
+"Recommended rest, hydration, and symptom management.",Lifestyle Recommendations
+"Fatigue resolved, and infection cleared.",Medication
+EEG indicates sleep apnea.,Test Results
+Prescribed CPAP therapy for better airflow.,Medication
+"Sleep quality improved, and snoring reduced.",Symptoms
+MRI reveals early-stage meningioma.,Test Results
+Recommended periodic imaging to monitor growth.,Lifestyle Recommendations
+"""Blood test reveals elevated liver enzymes, suggesting hepatitis.""",Test Results
+"""Started antiviral therapy for hepatitis B.""",Therapy & Rehabilitation
+"""Liver function improved, and viral load reduced.""",Therapy & Rehabilitation
+"""ECG detects atrial fibrillation.""",Test Results
+"""Prescribed blood thinners and beta-blockers.""",Medication
+"""Heart rhythm stabilized with medication.""",Medication
+"""X-ray confirms rib fracture.""",Complications & Side Effects
+"""Advised rest, pain management, and breathing exercises.""",Lifestyle Recommendations
+"""Fracture healed without complications.""",Complications & Side Effects
+"""CT scan reveals pulmonary embolism.""",Test Results
+"""Started immediate anticoagulation therapy.""",Therapy & Rehabilitation
+"""Clot resolved, and breathing improved.""",Complications & Side Effects
+"""Neurological exam confirms multiple sclerosis flare-up.""",Lifestyle Recommendations
+"""Administered high-dose corticosteroids.""",Medication
+"""Symptoms reduced, and function restored.""",Therapy & Rehabilitation
+"""Ultrasound detects polycystic kidney disease.""",Test Results
+"""Prescribed blood pressure medication and dietary changes.""",Medication
+"""Kidney function remained stable over time.""",Recovery & Prognosis
+"""Colonoscopy reveals benign colon polyps.""",Follow-Up Recommendations
+"""Polypectomy performed to prevent malignancy.""",Follow-Up Recommendations
+"""No recurrence of polyps in follow-up.""",Follow-Up Recommendations
+"""MRI confirms mild hydrocephalus.""",Test Results
+"""Recommended monitoring and cerebrospinal fluid regulation.""",Lifestyle Recommendations
+"""No progression, and cognitive function remained intact.""",Therapy & Rehabilitation
+"""X-ray confirms ankylosing spondylitis.""",Test Results
+"""Prescribed NSAIDs and physical therapy.""",Medication
+"""Back pain reduced, and flexibility improved.""",Symptoms
+"""CT scan reveals adrenal adenoma.""",Test Results
+"""Scheduled hormonal evaluation and periodic imaging.""",Lifestyle Recommendations
+"""Tumor remained non-functional and stable.""",Recovery & Prognosis
+"""EEG detects absence seizures.""",Medication
+"""Prescribed ethosuximide for seizure control.""",Medication
+"""Seizure frequency significantly reduced.""",Therapy & Rehabilitation
+"""Gastroscopy detects Barrettâ€™s esophagus.""",Test Results
+"""Started proton pump inhibitors and lifestyle changes.""",Medication
+"""Esophageal lining remained stable in follow-up.""",Recovery & Prognosis
+"""Blood test detects high uric acid levels, indicating gout.""",Test Results
+"""Prescribed allopurinol and dietary adjustments.""",Medication
+"""Gout flare-ups reduced, and pain controlled.""",Medication
+"""MRI detects a cervical herniated disc.""",Test Results
+"""Recommended physiotherapy and pain management.""",Therapy & Rehabilitation
+"""Neck pain resolved without surgical intervention.""",Surgical Procedures
+"""Doppler ultrasound shows peripheral artery disease.""",Follow-Up Recommendations
+"""Started antiplatelet therapy and advised walking exercises.""",Therapy & Rehabilitation
+"""Circulation improved, and symptoms reduced.""",Medication
+"""EEG confirms REM sleep behavior disorder.""",Therapy & Rehabilitation
+"""Prescribed melatonin and clonazepam.""",Medication
+"""Sleep disturbances minimized.""",Therapy & Rehabilitation
+"""X-ray confirms shoulder osteoarthritis.""",Therapy & Rehabilitation
+"""Recommended cortisone injections and mobility exercises.""",Lifestyle Recommendations
+"""Shoulder function improved, and pain decreased.""",Symptoms
+"""CT scan detects liver hemangioma.""",Test Results
+"""Suggested observation and periodic imaging.""",Lifestyle Recommendations
+"""No growth observed, and liver function remained normal.""",Lifestyle Recommendations
+"""Blood test reveals high C-reactive protein, indicating inflammation.""",Test Results
+"""Prescribed anti-inflammatory medication and lifestyle changes.""",Medication
+"""Inflammation markers returned to normal.""",Symptoms
+"""Neurological exam detects essential tremor.""",Medication
+"""Prescribed beta-blockers for tremor control.""",Medication
+"""Tremors reduced, improving daily function.""",Medication
+"""Genetic screening confirms Huntingtonâ€™s disease.""",Test Results
+"""Recommended supportive care and symptom management.""",Lifestyle Recommendations
+"""Cognitive decline managed with therapies.""",Lifestyle Recommendations
+"""Pulmonary function test confirms restrictive lung disease.""",Test Results
+"""Started oxygen therapy and pulmonary rehabilitation.""",Therapy & Rehabilitation
+"""Breathing improved, and quality of life maintained.""",Medication
+"""X-ray detects mild hip dysplasia.""",Surgical Procedures
+"""Advised strengthening exercises and weight management.""",Lifestyle Recommendations
+"""Hip stability improved, reducing discomfort.""",Surgical Procedures
+"""MRI reveals lumbar radiculopathy.""",Test Results
+"""Recommended epidural injections and physical therapy.""",Therapy & Rehabilitation
+"""Lower back pain relieved, and mobility restored.""",Symptoms
+"""Blood test confirms Wilsonâ€™s disease.""",Test Results
+"""Started chelation therapy to remove excess copper.""",Therapy & Rehabilitation
+"""Liver function improved, and neurological symptoms stabilized.""",Lifestyle Recommendations
+"""EEG detects focal epilepsy.""",Test Results
+"""Prescribed lamotrigine for seizure management.""",Medication
+"""Seizures controlled with medication.""",Medication
+"""Ultrasound detects enlarged spleen, suggesting splenomegaly.""",Lifestyle Recommendations
+"""Recommended further hematologic evaluation.""",Lifestyle Recommendations
+"""Cause identified and managed accordingly.""",Diagnosis
+"""CT scan detects early-stage lung cancer.""",Test Results
+"""Scheduled biopsy and treatment planning.""",Surgical Procedures
+"""Surgical removal successful, and no metastasis found.""",Surgical Procedures
+"""MRI detects Chiari malformation.""",Test Results
+"""Recommended neurological monitoring and symptom management.""",Lifestyle Recommendations
+"""Symptoms stable without need for surgery.""",Surgical Procedures
+"""Blood test reveals low platelet count, suggesting ITP.""",Test Results
+"""Started corticosteroid therapy.""",Therapy & Rehabilitation
+"""Platelet count improved, and bleeding reduced.""",Medication
+"""Gastroscopy confirms Helicobacter pylori infection.""",Test Results
+"""Prescribed triple therapy to eradicate infection.""",Medication
+"""Stomach irritation resolved after treatment.""",Recovery & Prognosis
+"""Ultrasound detects fibrocystic breast changes.""",Lifestyle Recommendations
+"""Recommended regular self-exams and monitoring.""",Lifestyle Recommendations
+"""No malignancy detected in follow-ups.""",Follow-Up Recommendations
+"""CT scan detects early-stage prostate cancer.""",Test Results
+"""Scheduled radiation therapy.""",Therapy & Rehabilitation
+"""Cancer in remission following treatment.""",Recovery & Prognosis
+"""Doppler ultrasound confirms venous insufficiency.""",Lifestyle Recommendations
+"""Prescribed compression stockings and advised lifestyle changes.""",Medication
+"""Leg swelling reduced, and circulation improved.""",Medication
+"""Neurological exam suggests restless legs syndrome.""",Test Results
+"""Prescribed dopamine agonists.""",Medication
+"""Leg discomfort reduced, improving sleep.""",Symptoms
+"""Blood test shows elevated calcium levels, indicating hyperparathyroidism.""",Test Results
+"""Scheduled parathyroidectomy to remove overactive gland.""",Therapy & Rehabilitation
+"""Calcium levels normalized post-surgery.""",Surgical Procedures
+"""X-ray confirms mild degenerative disc disease in the cervical spine.""",Test Results
+"""Recommended physical therapy and posture correction exercises.""",Therapy & Rehabilitation
+"""Neck pain reduced, and mobility improved.""",Symptoms
+"""MRI reveals a benign pituitary adenoma.""",Test Results
+"""Prescribed dopamine agonists to shrink the tumor.""",Medication
+"""Hormone levels normalized, and tumor size reduced.""",Recovery & Prognosis
+"""Colonoscopy detects Crohnâ€™s disease inflammation.""",Test Results
+"""Started immunosuppressive therapy and dietary modifications.""",Therapy & Rehabilitation
+"""Inflammation controlled, and symptoms improved.""",Medication
+"""Pulmonary function test indicates mild asthma.""",Test Results
+"""Prescribed inhaled corticosteroids for symptom management.""",Medication
+"""Breathing improved, and asthma attacks reduced.""",Medication
+"""Doppler ultrasound shows early-stage varicose veins.""",Test Results
+"""Recommended compression therapy and exercise.""",Therapy & Rehabilitation
+"""Leg swelling reduced, and discomfort improved.""",Medication
+"""CT scan detects mild brain atrophy in an elderly patient.""",Test Results
+"""Recommended cognitive therapy and memory training exercises.""",Therapy & Rehabilitation
+"""Cognitive decline stabilized with intervention.""",Lifestyle Recommendations
+"""Neurological exam suggests early-stage ALS.""",Test Results
+"""Recommended supportive care and physical therapy.""",Therapy & Rehabilitation
+"""Muscle function maintained longer with therapy.""",Therapy & Rehabilitation
+"""Blood test reveals severe vitamin D deficiency.""",Test Results
+"""Prescribed high-dose vitamin D supplements.""",Medication
+"""Bone health improved, and fatigue reduced.""",Symptoms
+"""Gastroscopy confirms gastric polyps.""",Follow-Up Recommendations
+"""Polypectomy performed to remove polyps.""",Follow-Up Recommendations
+"""No recurrence of polyps in follow-up endoscopy.""",Follow-Up Recommendations
+"""X-ray detects early-stage rheumatoid arthritis.""",Test Results
+"""Started DMARDs and advised lifestyle modifications.""",Lifestyle Recommendations
+"""Joint pain and stiffness improved with medication.""",Medication
+"""MRI scan detects mild lumbar facet joint arthritis.""",Test Results
+"""Recommended physiotherapy and anti-inflammatory medications.""",Medication
+"""Lower back pain reduced, and mobility improved.""",Symptoms
+"""Ultrasound confirms fatty liver disease.""",Test Results
+"""Prescribed weight loss and dietary changes.""",Medication
+"""Liver function improved, and fat accumulation reduced.""",Lifestyle Recommendations
+"""EEG reveals mild cognitive impairment.""",Test Results
+"""Recommended mental exercises and memory training.""",Lifestyle Recommendations
+"""Cognitive function stabilized over time.""",Recovery & Prognosis
+"""Blood test detects iron overload, indicating hemochromatosis.""",Test Results
