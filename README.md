@@ -84,7 +84,29 @@ BERT (Bidirectional Encoder Representations from Transformers)
 Comparative Analysis:
 The comparative analysis of different models highlights their effectiveness in classifying news articles into the correct category. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
 
-![image](https://github.com/user-attachments/assets/3d9fdf70-bfe3-4c81-beda-73066fc048cb)
+ Model
+Notes/Predictions
+Logistic regression 
+High accuracy for BoW and TFIDF, low for FastText
+SVM
+Performs perfectly with BoW and TFIDF, very low on FastText
+KNN
+Moderate performance across all embedding
+Random Forest
+High accuracy across all embeddings
+CNN
+Strong with BoW, weak with TFIDF and FastText
+LSTM
+Consistently low performance across embeddings
+BiLSTM
+Slightly better with TFIDF, otherwise weak
+CNN-BiLSTM
+Slight improvement with BoW, but low overall
+BERT
+Predictions: (2, 1, 0) for three input texts
+RoBERTa
+Predictions: (1, 1, 1) for three input texts
+
 
 Conclusion:
 This News Classification project demonstrates the potential of Machine Learning, Deep Learning, and Language Models for text classification tasks, particularly for categorizing news articles. The comparative analysis reveals that BERT, a transformer-based model, outperforms traditional methods and deep learning models in terms of accuracy, precision, and recall. By employing various algorithms, we gain insights into the strengths and weaknesses of each model, allowing us to choose the most suitable approach for news classification.
