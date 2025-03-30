@@ -84,28 +84,8 @@ BERT (Bidirectional Encoder Representations from Transformers)
 Comparative Analysis:
 The comparative analysis of different models highlights their effectiveness in classifying news articles into the correct category. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
 
- Model
-Notes/Predictions
-Logistic regression 
-High accuracy for BoW and TFIDF, low for FastText
-SVM
-Performs perfectly with BoW and TFIDF, very low on FastText
-KNN
-Moderate performance across all embedding
-Random Forest
-High accuracy across all embeddings
-CNN
-Strong with BoW, weak with TFIDF and FastText
-LSTM
-Consistently low performance across embeddings
-BiLSTM
-Slightly better with TFIDF, otherwise weak
-CNN-BiLSTM
-Slight improvement with BoW, but low overall
-BERT
-Predictions: (2, 1, 0) for three input texts
-RoBERTa
-Predictions: (1, 1, 1) for three input texts
+![image](https://github.com/user-attachments/assets/7fd8596b-840a-4731-8488-5a59f9da943d)
+
 
 
 Conclusion:
