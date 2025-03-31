@@ -84,7 +84,8 @@ BERT (Bidirectional Encoder Representations from Transformers)
 Comparative Analysis:
 The comparative analysis of different models highlights their effectiveness in classifying news articles into the correct category. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
 
-![image](https://github.com/user-attachments/assets/7fd8596b-840a-4731-8488-5a59f9da943d)
+![image](https://github.com/user-attachments/assets/8ef1f658-3e7f-44e5-990a-196b31440b7c)
+
 
 
 
