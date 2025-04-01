@@ -75,7 +75,7 @@ Long Short-Term Memory (LSTM)
 Language Models:
 
 
-GPT
+Roberta
 
 
 BERT (Bidirectional Encoder Representations from Transformers)
